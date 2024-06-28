@@ -11,9 +11,6 @@ Folder for Backend -> Server
 
 Backend Dependencies -->
 - npm install mongodb express cors 
-- mongodb database driver
-- express web framework for Node.js
-- cors is a package for cross origin sharing which is ... 
 
 Create config.env file to store the MongoDB connection string (secret keys).
 
