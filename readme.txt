@@ -1,12 +1,15 @@
 Hello JSD7! 
 
-
-
 MERN Stack
 M - MongoDB
 E - Express
 R - React
 N - Node.js
+
+Backend Dependencies
+"cors": "^2.8.5",
+"express": "^4.19.2",
+"mongodb": "^6.7.0"
 
 MEAN Stack -> Swap React to Angular 
 
